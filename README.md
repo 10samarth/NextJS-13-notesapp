@@ -1,8 +1,6 @@
 
 ## Next 13 Demo
 
-Fireship.io 
-
 Build a basic note-taking app with Next.js 13 and Pocketbase.
 
 ### Setup
